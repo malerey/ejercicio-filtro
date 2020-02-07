@@ -6,7 +6,7 @@
 
 * El objeto ya esta creado en el archivo .js 
 
-* Esta *prohibido* usar for. Para recorrer el objeto, debemos usar forEach, map, filter, o cualquier otro método de arrays. 
+* Esta *prohibido* usar for. Para recorrer el objeto, debemos usar forEach, map, filter, o cualquier otro método de arrays. Para recorrer colecciones de HTML (por ejemplo, las que nos devuelve document.getElementsByClassName) si necesitaremos for.  
 
 * El filtro debe funcionar tanto cuando el usuario aprieta enter, como cuando aprieta el boton de "filtrar". 
 
